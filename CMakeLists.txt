@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.16)
 set(CMAKE_CXX_STANDARD 14)
-project(TextEditor)
+#project() insert project name (no "")
 add_executable(${PROJECT_NAME} src/main.cpp)
 
 find_package(GLUT REQUIRED)
