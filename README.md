@@ -1,5 +1,5 @@
 # Triangle-Test
-![](https://imgur.com/0e7fqxp)
+![](https://i.imgur.com/tmFLWRZ.png)
 
 Insert project name into CMakeLists.txt, 
 Any key to quit
